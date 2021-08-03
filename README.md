@@ -1,0 +1,2 @@
+# Aerocrash
+“The aim of the project is to give a demo of a moving object with  different colored light sources reflecting on it. The software is developed  for user convenience using the concept of GUI. Here the user is  interactive with the simulation through menu and keyboard interface  concepts containing multiple windows having the information of  keyboard controls, object information and Simulation.”
